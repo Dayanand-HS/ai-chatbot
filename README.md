@@ -1,2 +1,12 @@
-# ai-chatbot
-The AI Skill Gap Advisor Chatbot is an intelligent conversational system designed to assist users in identifying skill gaps, answering career-related queries, and providing relevant recommendations. The chatbot leverages Natural Language Processing (NLP) techniques along with modern AI models to deliver accurate and context-aware responses.
+# AI Skill Gap Advisor Chatbot 🤖
+
+This is a simple AI chatbot built using Streamlit.
+
+## Features
+- Concise and Detailed response modes
+- Basic knowledge base responses
+- Simulated web search fallback
+
+## How to Run
+pip install -r requirements.txt
+streamlit run app.py
